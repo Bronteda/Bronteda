@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’ve spent over three years as a QA Engineer, but my curiosity about how software really works led me to explore development. What started as automating some testing tasks quickly became a passion when I built Winston — a Python-powered Google Chat bot that helped my team work more efficiently. Seeing something I created in action, making a real difference, was a turning point for me. It made me want to dive deeper into software development and build things from the ground up.
+
+My background in QA means I naturally think about quality and edge cases, which I believe gives me a unique perspective as I grow my coding skills. After completing General Assembly’s Software Engineering Bootcamp, I’m excited to take the next step into a junior software engineering or full-stack developer role — one where I can keep learning, contribute to meaningful projects, and grow alongside a supportive team.
+
 <!--
 **Bronteda/Bronteda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
