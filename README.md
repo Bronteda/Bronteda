@@ -23,8 +23,9 @@ My QA background means I naturally think about quality, reliability, and edge ca
 ### Kanbino
 A project with both front-end and back-end components:
 - [Kanbino-front-end](https://github.com/Bronteda/Kanbino-front-end): Front-end application built with React.
+  The front-end for Kanbino, a full-stack Kanban board application. Built with React, it provides a dynamic and user-friendly interface for visually organizing, managing, and tracking tasks across customizable boards and lists.
 - [Kanbino-back-end](https://github.com/Bronteda/Kanbino-back-end): Back-end service powering the Kanbino app.
-
+  The back-end API supporting Kanbino, responsible for secure data management, user authentication, and enabling real-time task updates to help teams and individuals collaborate efficiently.
 ### [Trifit](https://github.com/Bronteda/TRIFIT)
 A full-stack fitness tracking web app that helps users plan, log, and monitor their training routines for triathlons. Built with Node.js, Express, MongoDB, and EJS, Trifit features dynamic workout management and personalized dashboards.
 
