@@ -13,12 +13,17 @@ My QA background means I naturally think about quality, reliability, and edge ca
 ### 🛠️ Languages & Tools
 
 - **Languages:** JavaScript, Java, Python, C#, SQL, HTML, CSS
-- **Frameworks/Runtime:** Node.js, Express, .NET, ejs
+- **Frameworks/Runtime:** Node.js, Express, .NET, ejs, React
 - **Databases:** MongoDB, SQL
 
 ---
 
 ## 📌 Pinned Projects
+
+### Kanbino
+A project with both front-end and back-end components:
+- [Kanbino-front-end](https://github.com/Bronteda/Kanbino-front-end): Front-end application built with React.
+- [Kanbino-back-end](https://github.com/Bronteda/Kanbino-back-end): Back-end service powering the Kanbino app.
 
 ### [Trifit](https://github.com/Bronteda/TRIFIT)
 A full-stack fitness tracking web app that helps users plan, log, and monitor their training routines for triathlons. Built with Node.js, Express, MongoDB, and EJS, Trifit features dynamic workout management and personalized dashboards.
