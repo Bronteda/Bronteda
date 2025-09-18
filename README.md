@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bronteda
+# 👋 Hi, I'm Bronte De Agrela
 
 ## About Me
 
