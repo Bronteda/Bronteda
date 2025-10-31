@@ -20,7 +20,7 @@ My QA background means I naturally think about quality, reliability, and edge ca
 
 ## 📌 Pinned Projects
 
-## Pocket Shop
+### Pocket Shop
 
 Pocket Shop is a lightweight, client-first e-commerce storefront designed for fast prototyping and small product catalogs.
 
