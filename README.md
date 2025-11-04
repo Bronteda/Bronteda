@@ -24,10 +24,10 @@ My QA background means I naturally think about quality, reliability, and edge ca
 
 Pocket Shop is a lightweight, client-first e-commerce storefront designed for fast prototyping and small product catalogs.
 
-- **[Pocket-Shop-front-end](https://github.com/Bronteda/Pocket-Shop-front-end):**  
+- **[Pocket-Shop-front-end](https://github.com/Bronteda/Pocketshop-frontend):**  
   The front-end, built with React, provides a clean and responsive UI for browsing products, viewing product details, managing a shopping cart, and completing checkout. It’s designed to be easy to customize and extend for demos or small production storefronts.
 
-- **[Pocket-Shop-back-end](https://github.com/Bronteda/Pocket-Shop-back-end):**  
+- **[Pocket-Shop-back-end](https://github.com/Bronteda/Pocketshop-backend):**  
   The back-end API manages product and order data and handles checkout flows. The API exposes a simple contract so the front-end can be connected to a mock or real backend with minimal changes.
 
 ### Kanbino
